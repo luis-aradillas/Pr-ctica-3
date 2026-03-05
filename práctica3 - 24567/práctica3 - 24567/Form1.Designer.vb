@@ -35,6 +35,22 @@ Partial Class Form1
         Me.Label6 = New System.Windows.Forms.Label()
         Me.resultado = New System.Windows.Forms.Label()
         Me.calcular = New System.Windows.Forms.Button()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.Label12 = New System.Windows.Forms.Label()
+        Me.Label13 = New System.Windows.Forms.Label()
+        Me.Label14 = New System.Windows.Forms.Label()
+        Me.materia6 = New System.Windows.Forms.TextBox()
+        Me.materia7 = New System.Windows.Forms.TextBox()
+        Me.materia8 = New System.Windows.Forms.TextBox()
+        Me.materia9 = New System.Windows.Forms.TextBox()
+        Me.materia10 = New System.Windows.Forms.TextBox()
+        Me.materia11 = New System.Windows.Forms.TextBox()
+        Me.materia12 = New System.Windows.Forms.TextBox()
+        Me.materia13 = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'Label1
@@ -84,35 +100,35 @@ Partial Class Form1
         '
         'materia1
         '
-        Me.materia1.Location = New System.Drawing.Point(196, 48)
+        Me.materia1.Location = New System.Drawing.Point(232, 49)
         Me.materia1.Name = "materia1"
         Me.materia1.Size = New System.Drawing.Size(100, 20)
         Me.materia1.TabIndex = 5
         '
         'materia2
         '
-        Me.materia2.Location = New System.Drawing.Point(196, 88)
+        Me.materia2.Location = New System.Drawing.Point(232, 89)
         Me.materia2.Name = "materia2"
         Me.materia2.Size = New System.Drawing.Size(100, 20)
         Me.materia2.TabIndex = 6
         '
         'materia3
         '
-        Me.materia3.Location = New System.Drawing.Point(196, 128)
+        Me.materia3.Location = New System.Drawing.Point(232, 129)
         Me.materia3.Name = "materia3"
         Me.materia3.Size = New System.Drawing.Size(100, 20)
         Me.materia3.TabIndex = 7
         '
         'materia4
         '
-        Me.materia4.Location = New System.Drawing.Point(196, 168)
+        Me.materia4.Location = New System.Drawing.Point(232, 169)
         Me.materia4.Name = "materia4"
         Me.materia4.Size = New System.Drawing.Size(100, 20)
         Me.materia4.TabIndex = 8
         '
         'materia5
         '
-        Me.materia5.Location = New System.Drawing.Point(196, 211)
+        Me.materia5.Location = New System.Drawing.Point(232, 212)
         Me.materia5.Name = "materia5"
         Me.materia5.Size = New System.Drawing.Size(100, 20)
         Me.materia5.TabIndex = 9
@@ -146,11 +162,157 @@ Partial Class Form1
         Me.calcular.Text = "Calcular promedio"
         Me.calcular.UseVisualStyleBackColor = True
         '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.Location = New System.Drawing.Point(32, 265)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(55, 13)
+        Me.Label7.TabIndex = 13
+        Me.Label7.Text = "Biología II"
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Location = New System.Drawing.Point(32, 312)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(100, 13)
+        Me.Label8.TabIndex = 14
+        Me.Label8.Text = "Educación física IV"
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Location = New System.Drawing.Point(32, 359)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(45, 13)
+        Me.Label9.TabIndex = 15
+        Me.Label9.Text = "Física II"
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Location = New System.Drawing.Point(32, 408)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(110, 13)
+        Me.Label10.TabIndex = 16
+        Me.Label10.Text = "Formación humana IV"
+        '
+        'Label11
+        '
+        Me.Label11.AutoSize = True
+        Me.Label11.Location = New System.Drawing.Point(32, 458)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(60, 13)
+        Me.Label11.TabIndex = 17
+        Me.Label11.Text = "Literatura II"
+        '
+        'Label12
+        '
+        Me.Label12.AutoSize = True
+        Me.Label12.Location = New System.Drawing.Point(32, 506)
+        Me.Label12.Name = "Label12"
+        Me.Label12.Size = New System.Drawing.Size(76, 13)
+        Me.Label12.TabIndex = 18
+        Me.Label12.Text = "Paraescolar IV"
+        '
+        'Label13
+        '
+        Me.Label13.AutoSize = True
+        Me.Label13.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label13.Location = New System.Drawing.Point(32, 549)
+        Me.Label13.Name = "Label13"
+        Me.Label13.Size = New System.Drawing.Size(153, 13)
+        Me.Label13.TabIndex = 19
+        Me.Label13.Text = "Taller de com y colab efectiva II"
+        '
+        'Label14
+        '
+        Me.Label14.AutoSize = True
+        Me.Label14.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label14.Location = New System.Drawing.Point(32, 603)
+        Me.Label14.Name = "Label14"
+        Me.Label14.Size = New System.Drawing.Size(180, 13)
+        Me.Label14.TabIndex = 20
+        Me.Label14.Text = "Taller de hab para el mundo laboral II"
+        '
+        'materia6
+        '
+        Me.materia6.Location = New System.Drawing.Point(232, 258)
+        Me.materia6.Name = "materia6"
+        Me.materia6.Size = New System.Drawing.Size(100, 20)
+        Me.materia6.TabIndex = 21
+        '
+        'materia7
+        '
+        Me.materia7.Location = New System.Drawing.Point(232, 305)
+        Me.materia7.Name = "materia7"
+        Me.materia7.Size = New System.Drawing.Size(100, 20)
+        Me.materia7.TabIndex = 22
+        '
+        'materia8
+        '
+        Me.materia8.Location = New System.Drawing.Point(232, 352)
+        Me.materia8.Name = "materia8"
+        Me.materia8.Size = New System.Drawing.Size(100, 20)
+        Me.materia8.TabIndex = 23
+        '
+        'materia9
+        '
+        Me.materia9.Location = New System.Drawing.Point(232, 401)
+        Me.materia9.Name = "materia9"
+        Me.materia9.Size = New System.Drawing.Size(100, 20)
+        Me.materia9.TabIndex = 24
+        '
+        'materia10
+        '
+        Me.materia10.Location = New System.Drawing.Point(232, 451)
+        Me.materia10.Name = "materia10"
+        Me.materia10.Size = New System.Drawing.Size(100, 20)
+        Me.materia10.TabIndex = 25
+        '
+        'materia11
+        '
+        Me.materia11.Location = New System.Drawing.Point(232, 499)
+        Me.materia11.Name = "materia11"
+        Me.materia11.Size = New System.Drawing.Size(100, 20)
+        Me.materia11.TabIndex = 26
+        '
+        'materia12
+        '
+        Me.materia12.Location = New System.Drawing.Point(232, 542)
+        Me.materia12.Name = "materia12"
+        Me.materia12.Size = New System.Drawing.Size(100, 20)
+        Me.materia12.TabIndex = 27
+        '
+        'materia13
+        '
+        Me.materia13.Location = New System.Drawing.Point(232, 596)
+        Me.materia13.Name = "materia13"
+        Me.materia13.Size = New System.Drawing.Size(100, 20)
+        Me.materia13.TabIndex = 28
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1526, 658)
+        Me.Controls.Add(Me.materia13)
+        Me.Controls.Add(Me.materia12)
+        Me.Controls.Add(Me.materia11)
+        Me.Controls.Add(Me.materia10)
+        Me.Controls.Add(Me.materia9)
+        Me.Controls.Add(Me.materia8)
+        Me.Controls.Add(Me.materia7)
+        Me.Controls.Add(Me.materia6)
+        Me.Controls.Add(Me.Label14)
+        Me.Controls.Add(Me.Label13)
+        Me.Controls.Add(Me.Label12)
+        Me.Controls.Add(Me.Label11)
+        Me.Controls.Add(Me.Label10)
+        Me.Controls.Add(Me.Label9)
+        Me.Controls.Add(Me.Label8)
+        Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.calcular)
         Me.Controls.Add(Me.resultado)
         Me.Controls.Add(Me.Label6)
@@ -184,4 +346,20 @@ Partial Class Form1
     Friend WithEvents Label6 As Label
     Friend WithEvents resultado As Label
     Friend WithEvents calcular As Button
+    Friend WithEvents Label7 As Label
+    Friend WithEvents Label8 As Label
+    Friend WithEvents Label9 As Label
+    Friend WithEvents Label10 As Label
+    Friend WithEvents Label11 As Label
+    Friend WithEvents Label12 As Label
+    Friend WithEvents Label13 As Label
+    Friend WithEvents Label14 As Label
+    Friend WithEvents materia6 As TextBox
+    Friend WithEvents materia7 As TextBox
+    Friend WithEvents materia8 As TextBox
+    Friend WithEvents materia9 As TextBox
+    Friend WithEvents materia10 As TextBox
+    Friend WithEvents materia11 As TextBox
+    Friend WithEvents materia12 As TextBox
+    Friend WithEvents materia13 As TextBox
 End Class

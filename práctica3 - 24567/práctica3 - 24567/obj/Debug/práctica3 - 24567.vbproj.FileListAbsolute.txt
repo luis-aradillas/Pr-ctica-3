@@ -10,3 +10,15 @@ C:\ARMANDO - 24567\práctica3 - 24567\práctica3 - 24567\obj\Debug\práctica3 - 
 C:\ARMANDO - 24567\práctica3 - 24567\práctica3 - 24567\obj\Debug\práctica3 - 24567.exe
 C:\ARMANDO - 24567\práctica3 - 24567\práctica3 - 24567\obj\Debug\práctica3 - 24567.xml
 C:\ARMANDO - 24567\práctica3 - 24567\práctica3 - 24567\obj\Debug\práctica3 - 24567.pdb
+C:\Users\informa\Downloads\Pr-ctica-3-main\práctica3 - 24567\práctica3 - 24567\bin\Debug\práctica3 - 24567.exe.config
+C:\Users\informa\Downloads\Pr-ctica-3-main\práctica3 - 24567\práctica3 - 24567\bin\Debug\práctica3 - 24567.exe
+C:\Users\informa\Downloads\Pr-ctica-3-main\práctica3 - 24567\práctica3 - 24567\bin\Debug\práctica3 - 24567.pdb
+C:\Users\informa\Downloads\Pr-ctica-3-main\práctica3 - 24567\práctica3 - 24567\bin\Debug\práctica3 - 24567.xml
+C:\Users\informa\Downloads\Pr-ctica-3-main\práctica3 - 24567\práctica3 - 24567\obj\Debug\práctica3 - 24567.vbprojAssemblyReference.cache
+C:\Users\informa\Downloads\Pr-ctica-3-main\práctica3 - 24567\práctica3 - 24567\obj\Debug\práctica3___24567.Form1.resources
+C:\Users\informa\Downloads\Pr-ctica-3-main\práctica3 - 24567\práctica3 - 24567\obj\Debug\práctica3___24567.Resources.resources
+C:\Users\informa\Downloads\Pr-ctica-3-main\práctica3 - 24567\práctica3 - 24567\obj\Debug\práctica3 - 24567.vbproj.GenerateResource.cache
+C:\Users\informa\Downloads\Pr-ctica-3-main\práctica3 - 24567\práctica3 - 24567\obj\Debug\práctica3 - 24567.vbproj.CoreCompileInputs.cache
+C:\Users\informa\Downloads\Pr-ctica-3-main\práctica3 - 24567\práctica3 - 24567\obj\Debug\práctica3 - 24567.exe
+C:\Users\informa\Downloads\Pr-ctica-3-main\práctica3 - 24567\práctica3 - 24567\obj\Debug\práctica3 - 24567.xml
+C:\Users\informa\Downloads\Pr-ctica-3-main\práctica3 - 24567\práctica3 - 24567\obj\Debug\práctica3 - 24567.pdb
