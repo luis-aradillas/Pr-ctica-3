@@ -51,6 +51,7 @@ Partial Class Form1
         Me.materia11 = New System.Windows.Forms.TextBox()
         Me.materia12 = New System.Windows.Forms.TextBox()
         Me.materia13 = New System.Windows.Forms.TextBox()
+        Me.mensaje = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label1
@@ -292,11 +293,22 @@ Partial Class Form1
         Me.materia13.Size = New System.Drawing.Size(100, 20)
         Me.materia13.TabIndex = 28
         '
+        'mensaje
+        '
+        Me.mensaje.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.mensaje.ForeColor = System.Drawing.SystemColors.ButtonHighlight
+        Me.mensaje.Location = New System.Drawing.Point(399, 245)
+        Me.mensaje.Name = "mensaje"
+        Me.mensaje.Size = New System.Drawing.Size(100, 23)
+        Me.mensaje.TabIndex = 29
+        Me.mensaje.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1526, 658)
+        Me.ClientSize = New System.Drawing.Size(556, 658)
+        Me.Controls.Add(Me.mensaje)
         Me.Controls.Add(Me.materia13)
         Me.Controls.Add(Me.materia12)
         Me.Controls.Add(Me.materia11)
@@ -362,4 +374,5 @@ Partial Class Form1
     Friend WithEvents materia11 As TextBox
     Friend WithEvents materia12 As TextBox
     Friend WithEvents materia13 As TextBox
+    Friend WithEvents mensaje As Label
 End Class
